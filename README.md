@@ -1,5 +1,5 @@
-title : Learning and Reasoning
-
+---
+title: Learning and Reasoning
 --- 
 
 The Learning & Reasoning group studies the ways machine learning, symbolic knowledge and formal reasoning can interact to enhance one another, based on the premise that inductive data-driven learning and deductive knowledge-based reasoning have complementary strengths and weaknesses.  
