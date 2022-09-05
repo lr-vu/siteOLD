@@ -2,6 +2,13 @@
 title: Learning and Reasoning
 --- 
 
+<nav><ul>
+<li class="home"><a href="/">L&R</a></li>
+<li><a href="#contact">Contact</a></li>
+<li><a href="#people">People</a></li>
+<li><a href="#projects">Projects</a></li>
+</ul></nav>
+
 The Learning & Reasoning group studies the ways machine learning, symbolic knowledge and formal reasoning can interact to enhance one another, based on the premise that inductive data-driven learning and deductive knowledge-based reasoning have complementary strengths and weaknesses.  
 
 A vast amount of the world's data and knowledge is relational in nature. By designing machine learning methods that consume such symbolic, relational knowledge or interact with formal reasoning methods, it becomes possible to discover new knowledge, to detect mistakes in existing knowledge, and to develop alternative forms of inference. 
