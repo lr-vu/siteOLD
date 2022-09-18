@@ -112,20 +112,33 @@ h4 {
 	font-family: Verdana, sans-serif;
 }
 
-.gallery {
+.people_gallery {
 	display: grid;
 	grid-template-columns: auto auto auto auto;
 	width: 60%;
-
+	margin: auto;
 }
 
-.gallery__img {
+.people_gallery__img {
 
 	width: 150px;
 	/* object-fit: cover; */
 
 }
 
+.projects_gallery {
+	display: grid;
+	grid-template-columns: auto auto;
+	width: 60%;
+	margin: auto;
+}
+
+.projects_gallery__img {
+
+	width: 300px;
+	/* object-fit: cover; */
+
+}
 
 .publicationsframe {
 	width: 1000px;
