@@ -7,42 +7,63 @@ title: Projects
 
 <div class=projects_gallery>
 <figure>
+    <a href="https://amsterdamcooperationlab.com/databank/">
     <img src="{{ site.baseurl }}images/projects/Amsterdam-cooperation-databank-LARGE-300x132.png" class="projects_gallery__img" alt="Image 1">
+    </a>
     <figcaption></figcaption>
 </figure>
 
 <figure>
+    <a href="https://www.civic-ai.nl/">
     <img src="{{ site.baseurl }}images/projects/civic_ai_lab.png" class="projects_gallery__img" alt="Image 1">
+    </a>
     <figcaption></figcaption>
 </figure>
 
 <figure>
+    <a href="http://www.clariah.nl/">
     <img src="{{ site.baseurl }}images/projects/Clariah-300x83.png" class="projects_gallery__img" alt="Image 1">
+    </a>
     <figcaption></figcaption>
 </figure>
 
 <figure>
+    <a href="https://www.discoverylab.ai">
     <img src="{{ site.baseurl }}images/projects/discobery_lab.png" class="projects_gallery__img" alt="Image 1">
+    </a>
     <figcaption></figcaption>
 </figure>
 
 <figure>
+    <a href="https://krr.cs.vu.nl/dreams-lab/"><strong>The DReAMS Lab</strong></a>
+    <figcaption></figcaption>
+</figure>
+
+<figure>
+    <a href="https://www.humane-ai.eu/">
     <img src="{{ site.baseurl }}images/projects/humane_ai.svg" class="projects_gallery__img" alt="Image 1">
+    </a>
     <figcaption></figcaption>
 </figure>
 
 <figure>
+    <a href="https://www.hybrid-intelligence-centre.nl/">
     <img src="{{ site.baseurl }}images/projects/hybrid_intelligence.jpg" class="projects_gallery__img" alt="Image 1">
+    </a>
     <figcaption></figcaption>
 </figure>
 
 <figure>
+    <a href="https://www.narcis.nl/research/RecordID/OND1359681">
     <img src="{{ site.baseurl }}images/projects/Maestrograph_thin-300x156.jpg" class="projects_gallery__img" alt="Image 1">
+    </a>
     <figcaption></figcaption>
 </figure>
 
 <figure>
+    <a href="https://muhai.univiu.org/">
     <img src="{{ site.baseurl }}images/projects/muhai.png" class="projects_gallery__img" alt="Image 1">
+    </a>
     <figcaption></figcaption>
 </figure>
 </div>
