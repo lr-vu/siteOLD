@@ -88,12 +88,14 @@ nav ul li {
 
 nav ul li a {
 	color: #ffffffcc;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 	font-weight: bold;
 	text-decoration: none;
 }
 
 nav ul li a:hover {
-	color: #ffffff;
+	/*color: #ffffff;*/
+	color: #0089CF;
 	text-decoration: none;
 }
 
