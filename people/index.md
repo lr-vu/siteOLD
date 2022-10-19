@@ -73,7 +73,7 @@ title: People
         <figcaption>Taraneh Younesian</figcaption>
         </a>
     </figure>
-    <figure><a href="https://research.vu.nl/en/persons/ting-liu/"><img src="{{ site.baseurl }}images/members/Ting.jpg" class="people_gallery__img" alt="Image 1">
+    <figure><a href="https://scholar.google.com/citations?user=ObfjiFkAAAAJ&hl=en"><img src="{{ site.baseurl }}images/members/Ting.jpg" class="people_gallery__img" alt="Image 1">
         <figcaption>Ting Liu</figcaption>
         </a>
     </figure>
