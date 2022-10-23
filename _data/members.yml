@@ -1,0 +1,81 @@
+group_members:
+  - name: Andreas Sauter
+    image: images/members/Andreas.png
+    website: http://sauter.at/
+
+  - name: Annette ten Teije
+    image: images/members/Annette.jpg
+    website: https://www.cs.vu.nl/~annette/
+
+  - name: Daniel Daza
+    image: images/members/Daniel.png
+    website: https://dfdazac.github.io/
+
+  - name: Dimitrios Alivanistos
+    image: images/members/Dimitris.png
+    website: https://dimitrisalivas.github.io/
+
+  - name: Emile van Krieken
+    image: images/members/Emile.jpg
+    website: https://emilevankrieken.com/
+
+  - name: Frank van Harmelen
+    image: images/members/Frank.jpg
+    website: https://www.cs.vu.nl/~frankh/
+
+  - name: Inès Blin
+    image: images/members/Ines.png
+    website: https://csl.sony.fr/team/ines-blin/
+
+  - name: Jan-Christophe Kalo
+    image: images/members/JC.png
+    website: https://research.vu.nl/en/persons/jan-christoph-kalo/
+
+  - name: Majid Mohammedi
+    image: images/members/Majid.png
+    website: https://research.vu.nl/en/persons/majeed-mohammadi/
+
+  - name: Mani Tajaddini
+    image: images/members/Mani.png
+    website: https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/mani-tajaddini/
+
+  - name: Michael Cochez
+    image: images/members/Michael.jpg
+    website: https://www.cochez.nl/
+
+  - name: Nikos Kondylidis
+    image: images/members/Nikos.png
+    website: https://research.vu.nl/en/persons/nikolaos-kondylidis/
+
+  - name: Peter Bloem
+    image: images/members/Peter.jpg
+    website: http://peterbloem.nl/
+
+  - name: Taewoon Kim
+    image: images/members/Taewoon.png
+    website: https://taewoon.kim/
+
+  - name: Taraneh Younesian
+    image: images/members/Taraneh.png
+    website: https://research.vu.nl/en/persons/taraneh-younesian/
+
+  - name: Ting Liu
+    image: images/members/Ting.jpg
+    website: https://scholar.google.com/citations?user=ObfjiFkAAAAJ&hl=en/
+
+  - name: Xander Wilcke
+    image: images/members/Xander-Wilcke.jpg
+    website: https://research.vu.nl/en/persons/xander-wilcke/
+
+  - name: Zhisheng Huang
+    image: images/members/Zhisheng-Huang.jpg
+    website: https://www.cs.vu.nl/~huang/
+
+guest_members:
+  - name: Ali Khalili
+    image: images/members/Ali.jpg
+    website: https://ali1k.com/
+
+  - name: Thiviyan Thanapalasingam
+    image: images/members/Thiviyan.jpg
+    website: https://thiviyansingam.com/
