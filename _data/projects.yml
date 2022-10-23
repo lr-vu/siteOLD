@@ -1,0 +1,125 @@
+current_projects:
+  - name: CLARIAH
+    image: images/projects/Clariah-300x83.png
+    website: http://www.clariah.nl/
+
+  - name: Discovery Lab
+    image: images/projects/discobery_lab.png
+    website: https://www.discoverylab.ai/
+
+  - name: The DReAMS Lab
+    image: null
+    website: https://krr.cs.vu.nl/dreams-lab/
+
+  - name: HumaneA
+    image: images/projects/humane_ai.svg
+    website: https://www.humane-ai.eu/
+
+  - name: Hybrid Intelligence
+    image: images/projects/hybrid_intelligence.jpg
+    website: https://www.hybrid-intelligence-centre.nl/
+
+  - name: MUHAI
+    image: images/projects/muhai.png
+    website: https://muhai.univiu.org/
+
+previous_projects:
+  - name: RISIS (Research Infrastructure for Science and Innovation Studies)
+    image: null
+    website: null
+
+  - name: SlideWiki
+    image: null
+    website: http://slidewiki.eu/
+
+  - name: ULM-4 (Understanding Language by Machines 4)
+    image: null
+    website: http://www.understandinglanguagebymachines.org/a-quantum-model-of-text-understanding/
+
+  - name: Data2Semantics (COMMIT)
+    image: null
+    website: null
+
+  - name: Eureca
+    image: null
+    website: http://eurecaproject.eu/
+
+  - name: Open PHACTS (Open Pharmacological Concepts Triple Store)
+    image: null
+    website: http://www.openphacts.org/
+
+  - name: LDBC
+    image: null
+    website: http://ldbc.eu/
+
+  - name: LarKC (Large Knowledge Collider)
+    image: null
+    website: http://www.larkc.org/
+
+  - name: LATC (Linked Open Data Around the Clock)
+    image: null
+    website: http://latc-project.eu/
+
+  - name: Chinese WordNet
+    image: null
+    website: null
+
+  - name: SMS (Semantically Mapping Science)
+    image: null
+    website: null
+
+  - name: BEST
+    image: null
+    website: null
+
+  - name: SOKS (Self-Organising Knowledge Systems)
+    image: null
+    website: null
+
+  - name: STITCH (Semantic Interoperability To access Cultural Heritage)
+    image: null
+    website: http://www.cs.vu.nl/STITCH/
+
+  - name: Knowledge Web
+    image: null
+    website: http://knowledgeweb.semanticweb.org/
+
+  - name: OpenKnowledge
+    image: null
+    website: null
+
+  - name: "Protocure: Improving medical protocols by formal methods"
+    image:
+    website: http://www.protocure.org/
+
+  - name: SEKT (Semantically Enabled Knowledge Technologies)
+    image: null
+    website: http://www.sekt-project.com/
+
+  - name: "IBROW: Intelligent Brokering Service for Knowledge-Component Reuse on the World Wide Web"
+    image: null
+    website: http://projects.kmi.open.ac.uk/ibrow/
+
+  - name: "On-To-Knowledge: Content-driven knowledge management through evolving ontologies"
+    image: null
+    website: null
+
+  - name: The OntoWeb Network
+    image: null
+    website: null
+
+  - name: SWAP (Semantic Web And Peer-to-peer)
+    image: null
+    website: http://swap.semanticweb.org/
+
+  - name: "WonderWeb: Infrastructure for the Semantic Web"
+    image: null
+    website: null
+
+  - name: I-Catcher (Intensive-Care Access to Terminology &amp; Course of Health Exploration and Retrieval)
+    image: null
+    website: null
+
+  - name: "MaestroGraph: The Meaning and Structure of Very Large Knowledge Graphs"
+    image: null
+    website: https://www.narcis.nl/research/RecordID/OND1359681/
