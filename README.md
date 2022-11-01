@@ -23,6 +23,7 @@ branch. For example, adding / modifying your profile should be easily done by yo
 
 ## Adding or modifying a user profile at https://lr.cs.vu.nl/people/
 
+1. Clone this repo by running `git clone https://github.com/lr-vu/site.git`
 1. Create a new branch (e.g., `git checkout -b add-bob`)
 1. Add your profile image in [`./images/members/`](./images/members/).
 1. Add your entry in [`./_data/members.yml`](./_data/members.yml). The names are ordered
