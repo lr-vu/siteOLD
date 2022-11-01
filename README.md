@@ -8,9 +8,9 @@ added [here](https://github.com/orgs/lr-vu/people), ask people around you to add
 By building a website with Jekyll and hosting as a Github page, we don't have to worry
 about traditional web development. Ideally, we only have to modify markdown files.
 
-Although at the moment some people are more active in the web development, it shouldn't
-anyone can make changes / contributions by creating a branch and making a PR to the main
-branch. For example, adding / modifying your profile should be easily done by you.
+Although at the moment some people are more active in the web development, anyone can 
+make changes / contributions by creating a branch and making a PR to the main
+branch. For example, adding / modifying your profile can be easily done by you.
 
 ## Prerequisites
 
