@@ -27,12 +27,12 @@ branch. For example, adding / modifying your profile should be easily done by yo
 1. Add your profile image in [`./images/members/`](./images/members/).
 1. Add your entry in [`./_data/members.yml`](./_data/members.yml). The names are ordered
    in an alphabetical order.
-1. [Test locally if it works.](#run-the-website-locally).
+1. [Test locally if it works](#run-the-website-locally).
 1. Push your code to Github (e.g., `git push --set-upstream origin add-bob`)
-1. [Create a PR to the main branch.](https://github.com/lr-vu/site/pulls). Add reviewers who can check your code.
+1. [Create a PR to the main branch](https://github.com/lr-vu/site/pulls). Add reviewers who can check your code (e.g., Taewoon Kim).
 
 ## Adding or modifying a project at https://lr.cs.vu.nl/projects/
 
-This is the same as [Adding or modifying a user profile](#adding-or-modifying-a-user-profile-at-httpslrcsvunlpeople), except that some paths are 
-different (e.g., `./images/projects/` instead of `./images/members/`, 
+This is the same as [Adding or modifying a user profile](#adding-or-modifying-a-user-profile-at-httpslrcsvunlpeople), except that some paths are
+different (e.g., `./images/projects/` instead of `./images/members/`,
 and `./_data/projects.yml` instead of `./_data/members.yml`.
