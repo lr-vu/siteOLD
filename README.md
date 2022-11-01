@@ -35,7 +35,7 @@ branch. For example, adding / modifying your profile can be easily done by you.
 1. [Test locally if it works](#run-the-website-locally).
 1. Push your code to Github (e.g., `git push --set-upstream origin add-bob`)
 1. [Create a PR to the main branch](https://github.com/lr-vu/site/pulls). Add reviewers who can check your code (e.g., Taewoon Kim).
-1. After the PR is merged, see it it works [here](https://lr.cs.vu.nl/people/).
+1. After the PR is merged, see if it works [here](https://lr.cs.vu.nl/people/).
 
 </details>
 
@@ -46,7 +46,7 @@ branch. For example, adding / modifying your profile can be easily done by you.
    by clicking the button "Add file/Upload files"
 1. Add your entry [here](https://github.com/lr-vu/site/blob/main/_data/members.yml), by
    clicking pencil icon button. The names are ordered in an alphabetical order.
-1. See it it works [here](https://lr.cs.vu.nl/people/).
+1. See if it works [here](https://lr.cs.vu.nl/people/).
 
 </details>
 
