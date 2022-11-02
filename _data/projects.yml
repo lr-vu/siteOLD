@@ -25,7 +25,7 @@ current_projects:
     
   - name: LEAPfROG
     image: images/projects/leapfrog.png
-    website: null
+    website: https://www.pharmacoinformaticslab.nl/leapfrog-project/
 
 previous_projects:
   - name: RISIS (Research Infrastructure for Science and Innovation Studies)
