@@ -50,6 +50,10 @@ group_members:
   - name: Peter Bloem
     image: images/members/Peter.jpg
     website: http://peterbloem.nl/
+    
+  - name: Romy Vos
+    image: images/members/Romy.png
+    website: https://research.vu.nl/en/persons/romy-vos
 
   - name: Taewoon Kim
     image: images/members/Taewoon.png
