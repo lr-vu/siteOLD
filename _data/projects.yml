@@ -22,6 +22,10 @@ current_projects:
   - name: MUHAI
     image: images/projects/muhai.png
     website: https://muhai.univiu.org/
+    
+  - name: LEAPfROG
+    image: images/projects/leapfrog.png
+    website: null
 
 previous_projects:
   - name: RISIS (Research Infrastructure for Science and Innovation Studies)
