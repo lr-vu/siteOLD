@@ -1,4 +1,8 @@
 group_members:
+  - name: Al Idrizou
+    image: images/members/Al.jpg
+    website: https://www.illc.uva.nl/People/person/4927/Al-Idrissou/
+
   - name: Andreas Sauter
     image: images/members/Andreas.png
     website: http://sauter.at/
@@ -79,6 +83,10 @@ guest_members:
   - name: Ali Khalili
     image: images/members/Ali.jpg
     website: https://ali1k.com/
+
+  - name: Chengcheng Fu
+    image: images/members/placeholder.png
+    website: https://research.vu.nl/en/persons/chengcheng-fu/
 
   - name: Thiviyan Thanapalasingam
     image: images/members/Thiviyan.jpg
