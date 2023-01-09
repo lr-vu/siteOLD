@@ -121,6 +121,13 @@ h4 {
 	margin: auto;
 }
 
+.people_unordered_list {
+	/* display: grid; */
+	line-height: 100%;
+	/* list-style-type: disc; */
+	width: 60%;
+	margin: auto;
+}
 .people_gallery__img {
 
 	width: 150px;

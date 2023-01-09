@@ -35,3 +35,21 @@ title: People
   </figure>
 {% endfor %}
 </div>
+
+# Alumni #
+
+<div class="people_unordered_list">
+{% for member in site.data.members.alumni %}
+    {% if member.website == and member.bio == %}
+      <li><small>{{member.name}}</small></li>
+    {% elsif member.website == and member.bio != %}
+      <li><small>{{member.name}} ({{ member.bio | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines}})</small></li>
+    {% elsif member.website != and member.bio == %}
+      <li><small><a href="{{member.website}}">{{member.name}}</a></small></li>
+    {% elsif member.website != and member.bio != %}
+      <li><small><a href="{{member.website}}">{{member.name}}</a> ({{ member.bio | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines}})</small></li>
+    {% endif %}
+
+{% endfor %}
+
+</div>
