@@ -1,93 +1,355 @@
 group_members:
-  - name: Al Idrizou
-    image: images/members/Al.png
+  - image: images/members/Al.png
+    name: Al Idrizou
     website: https://www.illc.uva.nl/People/person/4927/Al-Idrissou/
-
-  - name: Andreas Sauter
-    image: images/members/Andreas.png
+  - image: images/members/Andreas.png
+    name: Andreas Sauter
     website: http://sauter.at/
-
-  - name: Annette ten Teije
-    image: images/members/Annette.jpg
+  - image: images/members/Annette.jpg
+    name: Annette ten Teije
     website: https://www.cs.vu.nl/~annette/
-
-  - name: Daniel Daza
-    image: images/members/Daniel.png
+  - image: images/members/Daniel.png
+    name: Daniel Daza
     website: https://dfdazac.github.io/
-
-  - name: Dimitrios Alivanistos
-    image: images/members/Dimitris.png
+  - image: images/members/Dimitris.png
+    name: Dimitrios Alivanistos
     website: https://dimitrisalivas.github.io/
-
-  - name: Emile van Krieken
-    image: images/members/Emile.jpg
+  - image: images/members/Emile.jpg
+    name: Emile van Krieken
     website: https://emilevankrieken.com/
-
-  - name: Frank van Harmelen
-    image: images/members/Frank.jpg
+  - image: images/members/Frank.jpg
+    name: Frank van Harmelen
     website: https://www.cs.vu.nl/~frankh/
-
-  - name: Inès Blin
-    image: images/members/Ines.png
+  - image: images/members/Ines.png
+    name: Inès Blin
     website: https://csl.sony.fr/team/ines-blin/
-
-  - name: Jan-Christophe Kalo
-    image: images/members/JC.png
+  - image: images/members/JC.png
+    name: Jan-Christophe Kalo
     website: https://research.vu.nl/en/persons/jan-christoph-kalo/
-
-  - name: Majid Mohammedi
-    image: images/members/Majid.png
+  - image: images/members/Majid.png
+    name: Majid Mohammedi
     website: https://research.vu.nl/en/persons/majeed-mohammadi/
-
-  - name: Mani Tajaddini
-    image: images/members/Mani.png
+  - image: images/members/Mani.png
+    name: Mani Tajaddini
     website: https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/mani-tajaddini/
-
-  - name: Michael Cochez
-    image: images/members/Michael.jpg
+  - image: images/members/Michael.jpg
+    name: Michael Cochez
     website: https://www.cochez.nl/
-
-  - name: Nikos Kondylidis
-    image: images/members/Nikos.png
+  - image: images/members/Nikos.png
+    name: Nikos Kondylidis
     website: https://research.vu.nl/en/persons/nikolaos-kondylidis/
-
-  - name: Peter Bloem
-    image: images/members/Peter.jpg
+  - image: images/members/Peter.jpg
+    name: Peter Bloem
     website: http://peterbloem.nl/
-    
-  - name: Romy Vos
-    image: images/members/Romy.png
+  - image: images/members/Romy.png
+    name: Romy Vos
     website: https://research.vu.nl/en/persons/romy-vos
-
-  - name: Taewoon Kim
-    image: images/members/Taewoon.png
+  - image: images/members/Taewoon.png
+    name: Taewoon Kim
     website: https://taewoon.kim/
-
-  - name: Taraneh Younesian
-    image: images/members/Taraneh.png
+  - image: images/members/Taraneh.png
+    name: Taraneh Younesian
     website: https://research.vu.nl/en/persons/taraneh-younesian/
-
-  - name: Ting Liu
-    image: images/members/Ting.jpg
+  - image: images/members/Ting.jpg
+    name: Ting Liu
     website: https://scholar.google.com/citations?user=ObfjiFkAAAAJ&hl=en/
-
-  - name: Xander Wilcke
-    image: images/members/Xander-Wilcke.jpg
+  - image: images/members/Xander-Wilcke.jpg
+    name: Xander Wilcke
     website: https://research.vu.nl/en/persons/xander-wilcke/
-
-  - name: Zhisheng Huang
-    image: images/members/Zhisheng-Huang.jpg
+  - image: images/members/Zhisheng-Huang.jpg
+    name: Zhisheng Huang
     website: https://www.cs.vu.nl/~huang/
 
 guest_members:
-  - name: Ali Khalili
-    image: images/members/Ali.jpg
+  - image: images/members/Ali.jpg
+    name: Ali Khalili
     website: https://ali1k.com/
-
-  - name: Chengcheng Fu
-    image: images/members/chengcheng.png
+  - image: images/members/chengcheng.png
+    name: Chengcheng Fu
     website: https://research.vu.nl/en/persons/chengcheng-fu/
-
-  - name: Thiviyan Thanapalasingam
-    image: images/members/Thiviyan.jpg
+  - image: images/members/Thiviyan.jpg
+    name: Thiviyan Thanapalasingam
     website: https://thiviyansingam.com/
+
+alumni:
+  - bio: now assist. prof. at Kings College London
+    name: Albert Merono
+    website: https://www.albertmeronyo.org/
+  - bio: October-November 2021
+    name: Alessandro Daniele
+    website: https://ict.fbk.eu/people/detail/alessandro-daniele/
+  - bio: null
+    name: Andreas Hess
+    website: null
+  - bio: now at [Europeana](https://pro.europeana.eu/person/antoine-isaac)
+    name: Antoine Isaac
+    website: http://www.few.vu.nl/~aisaac/
+  - bio: null
+    name: Antonis Loizou
+    website: http://www.few.vu.nl/~alu900
+  - bio: April – June 2010
+    name: Arturo Gonzalez Ferrer
+    website: http://www.ugr.es/~arturogf/
+  - bio: currently in the Knowledge in Artificial Intelligence (KAI) group
+    name: Benno Kruit
+    website: http://bennokruit.nl/
+  - bio: now at [Accenture Labs](https://cgueret.github.io/)
+    name: Christophe Gueret
+    website: http://www.few.vu.nl/~cgueret/
+  - bio: February – April 2008
+    name: Cássia Trojahn dos Santos
+    website: mailto:cassia.ts@gmail.com
+  - bio: null
+    name: Darya Tarasowa
+    website: http://few.vu.nl/~dta570/
+  - bio: August -September 2007
+    name: Dongmo Zhang
+    website: http://www.scm.uws.edu.au/~dongmo/
+  - bio: autumn 2003–summer 2004
+    name: Edgard Costa Oliveira
+    website: http://www.cs.vu.nl/~edgard/
+  - bio: August – October 2021
+    name: Elvira Amador-Domínguez
+    website: https://es.linkedin.com/in/elvira-amador-domínguez
+  - bio: now Assist. Prof at [ILLC](https://www.illc.uva.nl/) University of Amsterdam
+    name: Erman Acar
+    website: https://sites.google.com/view/ermanacar/
+  - bio: now at [EPFL](https://www.epfl.ch/en/home/)
+    name: Eva Kenny Lowther
+    website: https://twitter.com/evar_kenny
+  - bio: now at [McKinsey](http://en.wikipedia.org/wiki/McKinsey_%26_Company)
+    name: Eyal Oren
+    website: http://eyaloren.org/
+  - bio: now affiliated with University of Southern California
+    name: Filip Ilievski
+    website: https://usc-isi-i2.github.io/ilievski/
+  - bio: now at [Philips Research](http://philips.com/)
+    name: Gaston Tagni
+    website: http://www.few.vu.nl/~gtagni/
+  - bio: now at [Linked Data Orchestration](https://linkeddataorchestration.com/)
+    name: George Anadiotis
+    website: https://www.linkedin.com/in/georgeanadiotis/?originalSubdomain=gr/
+  - bio: autumn 2003
+    name: Grigoris Antoniou
+    website: http://www.ics.forth.gr/isl/people/people_individual.jsp?Person_ID=38/
+  - bio: now at [DataEdis](https://www.dataedis.com/)
+    name: Hamid R. Bazoobandi
+    website: https://www.few.vu.nl/~hbi250/
+  - bio: now Professor at [Universitaet Mannheim, Germany](http://www.uni-mannheim.de/)
+    name: Heiner Stuckenschmidt
+    website: http://ki.informatik.uni-mannheim.de/
+  - bio: moved to [the University of Applied Sciences Northwestern Switzerland (FHNW)](http://www.fhnw.ch/)
+    name: Holger Wache
+    website: http://www.hsw.fhso.ch/wache/
+  - bio: null
+    name: Huiqin Gao
+    website: http://www.huiqingao.com/
+  - bio: currently in the Knowledge in Artificial Intelligence (KAI) group
+    name: Ilaria Tiddi
+    website: https://kmitd.github.io/ilaria/
+  - bio: now at Computer Systems group of the VU
+    name: Jacopo Urbani
+    website: http://www.jacopourbani.it/
+  - bio: now at [Utrecht University](http://www.uu.nl/)
+    name: Jan Broersen
+    website: http://www.cs.uu.nl/~broersen/
+  - bio: now lives in Wellington, and works at [InsightNG](http://www.insightng.com/)
+    name: Jeen Broekstra
+    website: mailto:jeen.broekstra@gmail.com
+  - bio: July 2005
+    name: Jeff Pan
+    website: http://dl-web.man.ac.uk/~panz/Zhilin/
+  - bio: now with the VU’s [AtLarge group](https://atlarge-research.com/)
+    name: Jesse Donkervliet
+    website: http://www.jdonkervliet.com/
+  - bio: now assist. prof. at Paris Saclay University
+    name: Joe Raad
+    website: http://www.joe-raad.com/
+  - bio: May – July 2012
+    name: José Alberto Maldonado
+    website: http://www.ibime.upv.es/
+  - bio: December 2010 – December 2011
+    name: Jun Fang
+    website: http://www.cs.vu.nl/en/sec/ai/kr/
+  - bio: now at [Triply](https://triply.cc/)
+    name: Kathrin Dentler
+    website: http://www.few.vu.nl/~kdr250/
+  - bio: null
+    name: Klaas Andries de Graaf
+    website: http://www.kadegraaf.nl/
+  - bio: null
+    name: Krystyna Milian
+    website: http://www.few.vu.nl/~mka410/
+  - bio: now at [CWI](https://www.cwi.nl/people/laura-hollink)
+    name: Laura Hollink
+    website: http://www.cs.vu.nl/~laurah/
+  - bio: now at [Triply](https://triply.cc/)
+    name: Laurens Rietveld
+    website: http://laurensrietveld.nl/
+  - bio: June – December 2017
+    name: Lei Xu
+    website: http://raywhu.com/
+  - bio: null
+    name: Lise Stork
+    website: https://liacs.leidenuniv.nl/~storkl/
+  - bio: currently in the Knowledge in Artificial Intelligence (KAI) group
+    name: Loan Ho
+    website: https://scholar.google.com/citations?user=KWi3jCwAAAAJ&hl=en
+  - bio: now retired
+    name: Lourens van der Meij
+    website: http://www.cs.vu.nl/~lourens/
+  - bio: September 2018 – September 2019
+    name: Lu Liu
+    website: null
+  - bio: now at [LogicaCMG](http://www.logicacmg.nl/)
+    name: Maarten Menken
+    website: http://www.cs.vu.nl/~mrmenken/
+  - bio: spring 2018, now at University of Castelon
+    name: Mar Marcos
+    website: http://www3.uji.es/~marcos/
+  - bio: null
+    name: Marat Charlaganov
+    website: http://scholar.google.com/citations?user=Jiq47YsAAAAJ&hl=en
+  - bio: spring 2018
+    name: Maria Cristina
+    website: null
+  - bio: February 2005
+    name: Maria Taboada Iglesias
+    website: http://aiff.usc.es/~elchus/chus.html
+  - bio: null
+    name: Marie Koorneef
+    website: null
+  - bio: null
+    name: Marjolein van Gendt
+    website: http://www.cs.vu.nl/~mtvgendt/
+  - bio: now Professor at WU Vienna
+    name: Marta Sabou
+    website: https://www.wu.ac.at/en/dpkm/team/sabou-marta/
+  - bio: now at Agent Group at the VU
+    name: Michel Klein
+    website: http://www.cs.vu.nl/~mcaklein/
+  - bio: July 2005
+    name: Mikalai Yatskevich
+    website: http://dit.unitn.it/~accord/
+  - bio: currently in the Knowledge in Artificial Intelligence (KAI) group
+    name: Márk Adamik
+    website: https://research.vu.nl/en/persons/mark-adamik
+  - bio: October 2010
+    name: Paea Lependu
+    website: http://www.stanford.edu/~plependu/
+  - bio: February 2019
+    name: Pasquale Lisena
+    website: http://pasqlisena.github.io/
+  - bio: now Professor at Universiteit van Amsterdam
+    name: Paul Groth
+    website: http://www.few.vu.nl/~pgroth/
+  - bio: now at [University of Nijmegen](http://www.ru.nl/english)
+    name: Perry Groot
+    website: http://osiris.cs.kun.nl/~perry/index.html
+  - bio: now affiliated with the VU’s [HPDC group](https://www.vuhpdc.net/henri-bal/)
+    name: Peter Boncz
+    website: http://homepages.cwi.nl/~boncz/
+  - bio: September – October 2005
+    name: Peter Dolog
+    website: http://www.l3s.de/~dolog/index2.html
+  - bio: October 2010
+    name: Peter Mika
+    website: http://research.yahoo.com/Peter_Mika
+  - bio: null
+    name: Qing Hu
+    website: null
+  - bio: null
+    name: Radu Serban
+    website: null
+  - bio: February – April 2007
+    name: Raul Garcia Castro
+    website: mailto:rgarcia@fi.upm.es
+  - bio: PhD student in Guangzhou University
+    name: Renyan Feng
+    website: null
+  - bio: now at [Universidad de Talca](http://www.utalca.cl/)
+    name: Renzo Angles
+    website: http://campuscurico.utalca.cl/~rangles/
+  - bio: now at Elsevier
+    name: Rinke Hoekstra
+    website: http://www.rinkehoekstra.nl/
+  - bio: currently in the Knowledge in Artificial Intelligence (KAI) group
+    name: Romana Pernisch
+    website: https://pernisch.ch/
+  - bio: now at VU [User Centered Data Science](http://ucds.cs.vu.nl/) group
+    name: Ronald Siebes
+    website: http://www.cs.vu.nl/~ronny/
+  - bio:
+      now at [Jora solutions](http://www.jorasolutions.eu/), [KLM](http://www.klm.com/),
+      and [VNV](https://www.vnv.nl/)
+    name: Ruud Stegers
+    website: http://www.cs.vu.nl/~rstegers
+  - bio: August – October 2021
+    name: Sara Carter
+    website: https://www.insight-centre.org/our-team/sarah-carter/
+  - bio: now at University of Amsterdam
+    name: Sara Magliacane
+    website: https://saramagliacane.github.io/
+  - bio: null
+    name: Sever Fundatureanu
+    website: mailto:fundatureanu.sever@gmail.com
+  - bio: now at [TU Twente](http://www.wur.nl/)
+    name: Shenghui Wang
+    website: http://www.few.vu.nl/~swang/
+  - bio: now at [IBM](http://www.ibm.com/) Research
+    name: Spyros Kotoulas
+    website: http://www.few.vu.nl/~kot/
+  - bio: currently in the Knowledge in Artificial Intelligence (KAI) group
+    name: Stefan Schlobach
+    website: https://www.few.vu.nl/~schlobac/
+  - bio: now at Cyntelix
+    name: Stefano Bocconi
+    website: http://www.few.vu.nl/~sbocconi/
+  - bio: half a year starting from October 1, 2004
+    name: Stefano Zanobini
+    website: http://dit.unitn.it/~zanobini/
+  - bio: now at [Leiden University](http://www.universiteitleiden.nl/en)
+    name: Steven de Rooij
+    website: http://www.universiteitleiden.nl/en/staffmembers/steven-de-rooij/
+  - bio: now at[Black Swan technologies](https://blackswantechnologies.ai/)
+    name: Szymon Klarman
+    website: http://klarman.synthasite.com/
+  - bio: now at University of Amsterdam
+    name: Veruska Carretta Zamborlini
+    website: http://www.few.vu.nl/~vci900/
+  - bio: autumn 2019
+    name: Vitor Horta
+    website: https://www.insight-centre.org/users/vitor-araújo-cautiero-horta
+  - bio: December 2009
+    name: Václav Belák
+    website: mailto:belakv@gmail.com
+  - bio: April 2010
+    name: Víctor Gutiérrez
+    website: http://www.informatik.uni-bremen.de/~victor/
+  - bio: November 2007 – April 2008
+    name: Wei Hu
+    website: http://iws.seu.edu.cn/projects/matching/
+  - bio: now at [triply.cc](https://triply.cc/)
+    name: Wouter Beek
+    website: http://www.wouterbeek.com/
+  - bio: now Assoc. Professor at VU
+    name: Wouter van Atteveldt
+    website: http://www.cs.vu.nl/~wva/
+  - bio: null
+    name: Wouter van Steenbergen
+    website: null
+  - bio: now at Elsevier
+    name: Wytze Vlietstra
+    website: http://biosemantics.org/index.php/people/wytze-vlietstra/
+  - bio: null
+    name: Xu Wang
+    website: null
+  - bio: May – June 2010
+    name: Yan Wang
+    website: http://wiki.larkc.eu/yanwang/
+  - bio: May – June 2009
+    name: Yi Zeng
+    website: http://www.wici-lab.org/wici/~yizeng/
+  - bio: now at [Philips Research](http://www.research.philips.com/)
+    name: Zharko Aleksovski
+    website: http://www.cs.vu.nl/~zharko/
