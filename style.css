@@ -122,9 +122,9 @@ h4 {
 }
 
 .people_unordered_list {
-	/* display: grid; */
+	display: grid;
 	line-height: 100%;
-	/* list-style-type: disc; */
+	list-style-type: disc;
 	width: 60%;
 	margin: auto;
 }
